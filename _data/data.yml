@@ -47,8 +47,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
-      A second year Software Engineering master's student at Politecnico di Torino with an interest in software development especially RESTful API Development, Back-end Development, Web Services, Application Development. Always seeking to learn more and to develop my skills in every aspect.
+    summary: A second year Software Engineering master's student at Politecnico di Torino with an interest in software development especially RESTful API Development, Back-end Development, Web Services, Application Development. Always seeking to learn more and to develop my skills in every aspect.
 education:
     - degree: MSc in Software Engineering
       university: Politecnico di Torino
@@ -76,10 +75,7 @@ experiences:
     - role: Software Development Intern
       time: August 2017–September 2017
       company: IBM Egypt
-      details: |
-        I was enrolled in a team that is responsible for the development of a E-commerce web and mobile application following the
-agile software development methodology, I participated in creation of the database tables, triggers and some of the front-end
-development for the website.
+      details: I was enrolled in a team that is responsible for the development of a E-commerce web and mobile application following the agile software development methodology, I participated in creation of the database tables, triggers and some of the front-end development for the website.
           # - Bullet point
           # - Bullet point
     # - role: Senior Software Engineer
@@ -113,15 +109,11 @@ projects:
     assignments:
       - title: School-Management-System
         link: "https://github.com/MohamedMamdouh95/School-Management-System"
-        tagline: "Implemented a website with my teammates following agile methodology using Django
-framework that manages a school by providing different functionalities to different types of users, it can be considered as a small
-portal that contains students data that can be accessed by their parents in order interact with teachers and the employees."
+        tagline: "Implemented a website with my teammates following agile methodology using Django framework that manages a school by providing different functionalities to different types of users, it can be considered as a small portal that contains students data that can be accessed by their parents in order interact with teachers and the employees."
 
       - title: Optimized-Firewall-Anomaly-Resolution
         link: "https://github.com/MohamedMamdouh95/Optimized-Firewall-Anomaly-Resolution"
-        tagline: "An Algorithm that can minimizes the number of resolutions that
-have to be performed by network administrators to fix the detected conflicts and Designed a RESTfulWeb service that offers this
-Algorithm as a service for the requesting clients."
+        tagline: "An Algorithm that can minimizes the number of resolutions that have to be performed by network administrators to fix the detected conflicts and Designed a RESTfulWeb service that offers this algorithm as a service for the requesting clients."
 
       - title: Second-Hand-Market-Application
         link: "https://github.com/MohamedMamdouh95/Second-Hand-Market-Application"
@@ -129,18 +121,15 @@ Algorithm as a service for the requesting clients."
 
       - title: AirLineSystem
         link: "https://github.com/MohamedMamdouh95/AirLineSystem"
-        tagline: "A website for managing seats reservation for flights, which enable the users to create
-profile and have a realtime view of the plane so they can reserve and purchase seats."
+        tagline: "A website for managing seats reservation for flights, which enable the users to create profile and have a realtime view of the plane so they can reserve and purchase seats."
 
       - title: LaTazza
         link: "https://github.com/MohamedMamdouh95/LaTazza"
-        tagline: "LaTazza is a desktop application that helps to manage the sale and
-the supply of coffee capsules inside a company."
+        tagline: "LaTazza is a desktop application that helps to manage the sale and the supply of coffee capsules inside a company."
 
       - title: Sentiment-Analysis-IMDB
         link: "https://github.com/MohamedMamdouh95/Sentiment-Analysis-IMDB"
-        tagline: "Implemented the analysis for recognizing the sentiment and classifying each review
-to be either positive or negative given the 50k labeled IMDB movie reviews in text format using various classifiers."
+        tagline: "Implemented the analysis for recognizing the sentiment and classifying each review to be either positive or negative given the 50k labeled IMDB movie reviews in text format using various classifiers."
 
 # publications:
 #     title: Publications
