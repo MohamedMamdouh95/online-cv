@@ -169,7 +169,7 @@ skills:
       - name: Android
         level: 90%
       
-      - name: Frameworks:JAX-RS, Jersey, JAXB
+      - name: JAX-RS, Jersey, JAXB
         level: 88%
 
       - name: PHP
