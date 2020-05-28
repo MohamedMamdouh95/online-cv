@@ -48,12 +48,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      A second year Software Engineering master's student at Politecnico di Torino with an interest in software development especially RESTful API Development, Back-end Development, Web Services, Application Development. Always seeking to learn more and to develop my skills in every aspect.
 education:
     - degree: MSc in Software Engineering
       university: Politecnico di Torino
@@ -78,113 +73,124 @@ education:
       #     - Bullet point
       #     - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Development Intern
+      time: August 2017–September 2017
+      company: IBM Egypt
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I was enrolled in a team that is responsible for the development of a E-commerce web and mobile application following the
+agile software development methodology, I participated in creation of the database tables, triggers and some of the front-end
+development for the website.
+          # - Bullet point
+          # - Bullet point
+    # - role: Senior Software Engineer
+    #   time: 2014 - 2015
+    #   company: Google, London
+    #   details: |
+    #     Describe your role here lorem ipsum dolor sit amet, consectetuer
+    #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    #     Cum sociis natoque penatibus et magnis dis parturient montes,
+    #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
+    #     pellentesque eu, pretium quis, sem.
+    #       - Bullet point
+    #       - Bullet point
+    # - role: UI Developer
+    #   time: 2012 - 2014
+    #   company: Amazon, London
+    #   details: |
+    #     Describe your role here lorem ipsum dolor sit amet, consectetuer
+    #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    #     Cum sociis natoque penatibus et magnis dis parturient montes,
+    #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
+    #     pellentesque eu, pretium quis, sem.
+    #       - Bullet point
+    #       - Bullet point
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    # intro: >
+    #   You can list your side projects or open source libraries in this
+    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: School-Management-System
+        link: "https://github.com/MohamedMamdouh95/School-Management-System"
+        tagline: "Implemented a website with my teammates following agile methodology using Django
+framework that manages a school by providing different functionalities to different types of users, it can be considered as a small
+portal that contains students data that can be accessed by their parents in order interact with teachers and the employees."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Optimized-Firewall-Anomaly-Resolution
+        link: "https://github.com/MohamedMamdouh95/Optimized-Firewall-Anomaly-Resolution"
+        tagline: "An Algorithm that can minimizes the number of resolutions that
+have to be performed by network administrators to fix the detected conflicts and Designed a RESTfulWeb service that offers this
+Algorithm as a service for the requesting clients."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Second-Hand-Market-Application
+        link: "https://github.com/MohamedMamdouh95/Second-Hand-Market-Application"
+        tagline: "An Android mobile application that provides online platform for users to sell and buy items."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: AirLineSystem
+        link: "https://github.com/MohamedMamdouh95/AirLineSystem"
+        tagline: "A website for managing seats reservation for flights, which enable the users to create
+profile and have a realtime view of the plane so they can reserve and purchase seats."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: LaTazza
+        link: "https://github.com/MohamedMamdouh95/LaTazza"
+        tagline: "LaTazza is a desktop application that helps to manage the sale and
+the supply of coffee capsules inside a company."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Sentiment-Analysis-IMDB
+        link: "https://github.com/MohamedMamdouh95/Sentiment-Analysis-IMDB"
+        tagline: "Implemented the analysis for recognizing the sentiment and classifying each review
+to be either positive or negative given the 50k labeled IMDB movie reviews in text format using various classifiers."
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Java, JAX-RS, Jersey, JAXB
         level: 98%
+      
+      - name: Kotlin
+        level: 88%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Android
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: PHP
+        level: 85%
+
+      - name: Python & Django
+        level: 80%
+
+      - name: Hadoop, Map Reduce & Spark
+        level: 78%
+
+      - name: Javascript & jQuery
+        level: 75%
+
+      - name: React native
+        level: 75%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
