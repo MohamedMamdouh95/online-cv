@@ -162,11 +162,11 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: C
-        level: 98%
-      
       - name: Java
         level: 99%
+        
+      - name: C
+        level: 98%
       
       - name: Kotlin
         level: 95%
