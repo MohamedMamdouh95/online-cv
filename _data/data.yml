@@ -163,22 +163,22 @@ skills:
 
     toolset:
       - name: C
-        level: 99%
-      
-      - name: Java
         level: 98%
       
+      - name: Java
+        level: 99%
+      
       - name: Kotlin
-        level: 93%
+        level: 95%
 
       - name: Android
-        level: 90%
+        level: 92%
       
       - name: JAX-RS, Jersey, JAXB
-        level: 88%
+        level: 90%
 
       - name: PHP
-        level: 86%
+        level: 88%
 
       - name: Python & Django
         level: 84%
