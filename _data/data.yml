@@ -16,7 +16,7 @@ sidebar:
     # phone: 
     # website: blog.webjeda.com #do not add http://
     linkedin: mohamedtourab
-    github: mohamedmamdouh95
+    github: mohamedtourab
     # telegram: # add your nickname without '@' sign
     # gitlab:
     # bitbucket:
@@ -75,8 +75,7 @@ experiences:
     - role: Software Engineer
       time: June 2020–Present
       company: Connexx-An EWO company
-      details: Working as java back-end developer on IOT platform to control and gather data for various nodes and sensors. Visualize and manage the user devices installation and set rules for various groups or single luminary.
-
+      details: Working as full-stack developer on IOT platform that controls and gathers data from various nodes and sensors. Visualize and manage the user devices, installation. Stack used: Javascript, Jquery, Java, Hibernate, Postgres SQL.
     - role: Software Development Intern
       time: August 2017–September 2017
       company: IBM Egypt
